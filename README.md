@@ -1,17 +1,26 @@
 ## Hi there, I'm Heesook Kim 👋
 
+
 ### 🧩 Currently Learning
 
 
 
 ### 👻 Skills
 
-### 🐾 Education & Experience
+### 🐾 Experience
+- [Education]
+  
+  Ewha W. Univ. The Degree of Bachelor of Science in `Contents Convergence` Bachelor of Science in `Statistics` minor in `Computer science and Engineering` (2017.03 ~ 2022.02)
+  
+  Ewha W. Univ. The Degree of Master of Science in `Statistics` (2022.03 ~ Present)
+- [Undergraduate researcher]
+- [Postgraduate researcher]
+
 
 ### 🏅 Awards & Honors
 
 
-`왕`
+`수정중`
 
 <!--
 **hs-sugi/hs-sugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
