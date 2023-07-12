@@ -6,6 +6,12 @@
 
 
 ### 👻 Skills
+<img src="https://img.shields.io/badge/Rstudio-75AADB?&logo=Rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Plotly-3F4F75?&logo=Plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?&logo=Oracle&logoColor=white"/> <br/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white"/>
+
 
 ### 🐾 Experience
 - [Education]
