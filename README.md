@@ -36,7 +36,7 @@
   - Award for Director of the Korea Award(한국영상자료원장상:최우수상)
 
 
-### 📫 How to reach me: rz3210@naver.com 
+#### 📫 How to reach me: spout414@gmail.com 
 `이메일 생성, 수정하기`
 
 
