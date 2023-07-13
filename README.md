@@ -26,10 +26,18 @@
 ### 🏅 Awards & Honors
 `수정중`
 - **2022-BigContest**
+  - Data Analysis League Innovation Field 
+  - Auspice by NIA Korea Intelligent Information Society Agency(NIA 한국지능정보사회진흥원), Manage by Shinhan Card and Jeju Tourism Organization(신한카드, 제주관광공사)
+  - Korea Information and Communication Promotion Association President's Award(한국정보통신진흥협회장상:최우수상)
+- **The 7th Lotte Members Big Data Competition**   
+  - Auspice and Manage by LOTTE Members(롯데멤버스)
+- **Movie Big Data Idea Contest**
+  - Auspice by Korea Film Archive(KOFA, 한국영상자료원), Manage by Sundo Soft((주)선도소프트)
+  - Award for Director of the Korea Award(한국영상자료원장상:최우수상)
 
 
-
-### 📫 How to reach me: rz3210@naver.com `이메일 생성, 수정하기`
+### 📫 How to reach me: rz3210@naver.com 
+`이메일 생성, 수정하기`
 
 
 <!--
