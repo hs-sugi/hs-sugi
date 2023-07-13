@@ -2,8 +2,8 @@
 
 
 ### 🧩 Currently Learning
-
-
+`principal graphical models(PGM)`, `sufficient dimension reduction(SDR)`   
+      
 
 ### 👻 Skills
 <img src="https://img.shields.io/badge/Rstudio-75AADB?&logo=Rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?&logo=R&logoColor=white"/>
@@ -24,9 +24,13 @@
 
 
 ### 🏅 Awards & Honors
-
-
 `수정중`
+- **2022-BigContest**
+
+
+
+### 📫 How to reach me: rz3210@naver.com `이메일 생성, 수정하기`
+
 
 <!--
 **hs-sugi/hs-sugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
